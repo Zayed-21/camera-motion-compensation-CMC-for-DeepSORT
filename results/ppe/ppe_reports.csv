@@ -1,0 +1,55 @@
+group,tracker,reports,violators,per_violator
+MOT17 moving k=1,base,107,60,1.7833333333333334
+MOT17 moving k=1,cmc_s0,99,60,1.65
+MOT17 moving k=1,ecc,97,60,1.6166666666666667
+MOT17 moving k=1,hybrid,98,60,1.6333333333333333
+MOT17 moving k=6 per-step,base,45,25,1.8
+MOT17 moving k=6 per-step,cmc_s0,42,29,1.4482758620689655
+MOT17 moving k=6 per-step,ecc,33,32,1.03125
+MOT17 moving k=6 per-step,hybrid,34,34,1.0
+MOT17 moving k=6 time-aware,base,32,27,1.1851851851851851
+MOT17 moving k=6 time-aware,cmc_s0,33,30,1.1
+MOT17 moving k=6 time-aware,ecc,37,34,1.088235294117647
+MOT17 moving k=6 time-aware,hybrid,39,33,1.1818181818181819
+MOT15 new moving k=1,base,37,39,0.9487179487179487
+MOT15 new moving k=1,cmc_s0,38,39,0.9743589743589743
+MOT15 new moving k=1,ecc,35,37,0.9459459459459459
+MOT15 new moving k=1,hybrid,35,37,0.9459459459459459
+synthetic pan20,base,132,24,5.5
+synthetic pan20,cmc_s0,39,23,1.6956521739130435
+synthetic pan20,oracle,39,23,1.6956521739130435
+synthetic shake10,base,54,30,1.8
+synthetic shake10,cmc_s0,60,28,2.142857142857143
+synthetic shake10,oracle,60,28,2.142857142857143
+surveillance pstill0,base,60,22,2.727272727272727
+surveillance pstill0,cmc_s0,61,22,2.772727272727273
+surveillance pstill0,ecc,61,22,2.772727272727273
+surveillance pstill0,oracle,60,22,2.727272727272727
+surveillance ptz5,base,59,23,2.5652173913043477
+surveillance ptz5,cmc_s0,55,23,2.391304347826087
+surveillance ptz5,ecc,55,23,2.391304347826087
+surveillance ptz5,oracle,55,23,2.391304347826087
+surveillance ptz10,base,64,30,2.1333333333333333
+surveillance ptz10,cmc_s0,58,30,1.9333333333333333
+surveillance ptz10,ecc,58,30,1.9333333333333333
+surveillance ptz10,oracle,58,30,1.9333333333333333
+surveillance ptz20,base,58,14,4.142857142857143
+surveillance ptz20,cmc_s0,47,15,3.1333333333333333
+surveillance ptz20,ecc,47,15,3.1333333333333333
+surveillance ptz20,oracle,47,15,3.1333333333333333
+surveillance ptz40,base,115,19,6.052631578947368
+surveillance ptz40,cmc_s0,66,20,3.3
+surveillance ptz40,ecc,67,20,3.35
+surveillance ptz40,oracle,67,19,3.526315789473684
+surveillance sway10,base,54,21,2.5714285714285716
+surveillance sway10,cmc_s0,54,21,2.5714285714285716
+surveillance sway10,ecc,55,21,2.619047619047619
+surveillance sway10,oracle,54,21,2.5714285714285716
+surveillance sway25,base,58,27,2.1481481481481484
+surveillance sway25,cmc_s0,58,27,2.1481481481481484
+surveillance sway25,ecc,58,27,2.1481481481481484
+surveillance sway25,oracle,58,27,2.1481481481481484
+surveillance sway50,base,83,29,2.8620689655172415
+surveillance sway50,cmc_s0,76,28,2.7142857142857144
+surveillance sway50,ecc,76,28,2.7142857142857144
+surveillance sway50,oracle,75,28,2.6785714285714284
